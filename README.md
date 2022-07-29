@@ -1,4 +1,4 @@
 # misc-snippets
 Miscellaneous code snippets:
 - **os-renaming-files** - Rename multiple files of specific extension by given naming convention. Used for batch renaming hundreds of _.jpg_ images.
-- **csv-combine** - Combine multiple single .csv files into one database. Used for keeping track of usage of Dynamo scripts in Revit.
+- **csv-combine** - Combine multiple single .csv files into one database. Used for keeping track of Dynamo scripts usage in Revit.
